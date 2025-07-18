@@ -1,0 +1,4 @@
+juan.ortiz@examplecorp.ec
+lorena.mena@examplecorp.ec
+admin@examplecorp.ec
+rrhh@examplecorp.ec
